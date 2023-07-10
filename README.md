@@ -1,3 +1,2 @@
-# Submission Deploy simply Profile to GCP [App Engine]
-Proyek Deploy Aplikasi Profile Dicoding
+# Deploy simply Profile to GCP [App Engine]
 Deploy to AppEngine in Google Cloud Platform
